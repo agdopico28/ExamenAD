@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/619d7f7b-d2c5-4c0b-88b8-f519bb94cc4a/console.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/Ejercicio4/Opcional.kt" dialect="GenericSQL" />
+  </component>
+</project>
